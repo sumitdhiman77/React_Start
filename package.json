@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "react_start",
+  "description": "This is a react based online ood app.",
+  "version": "1.0.0",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/sumitdhiman77/react_start.git)"
+  },
+  "keywords": [
+    "react",
+    "react",
+    "start",
+    "sumit",
+    "dhiman"
+  ],
+  "author": "sumit dhiman",
+  "license": "ISC",
+  "browserslist": [
+    "last two versions"
+  ]
+}
